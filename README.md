@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hansung%20University%20Sonjuwan&fontSize=30&fontAlign=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hansung%20University%20Sonjuwan&fontSize=30&fontAlign=50&fontColor=000000" />
 
 ## Hi there 👋
 
