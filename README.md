@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hansung%20University%&fontSize=30&fontAlign=50&fontColor=000000" />
 
-## Hi there 👋
+## Son Juwan 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvan2&layout=compact&theme=default&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
