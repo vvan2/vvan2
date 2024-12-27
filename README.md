@@ -11,6 +11,9 @@
     <p><strong>App</strong></p>
     <div>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+      ![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white)
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     </div> 
   <!-- Frontend -->
     <p><strong>Frontend</strong></p>
