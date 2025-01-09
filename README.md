@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=150&section=header&text=Application%20Developer%&fontSize=30&fontAlign=50&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=150&section=header&text=Application%20Developer%&fontSize=30&fontAlign=50&fontColor=E3F2FD" />
 
 ## Son Juwan 👋
 
