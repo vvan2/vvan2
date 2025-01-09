@@ -1,8 +1,12 @@
+## Son Juwan 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=250&section=header&text=Application%20Developer%&fontSize=30&fontAlign=50&fontColor=E3F2FD" />
 
-## Son Juwan 👋
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vvan2&show_icons=true&theme=github_dark" width = "65%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvan2&layout=compact&theme=default&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" width="28%">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvan2&layout=compact&theme=default&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Tech Stack
 
