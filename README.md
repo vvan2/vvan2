@@ -2,8 +2,11 @@
 
 ## Son Juwan 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvan2&layout=compact&theme=default&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9BF7&center=true&vCenter=true&width=535&lines=Application+%26+Developer;)](https://git.io/typing-svg)
 
+</div>
 ### 🛠 Tech Stack
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
