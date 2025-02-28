@@ -1,13 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0055FF&height=250&section=header&text=Application%20Developer%&fontSize=30&fontAlign=50&fontColor=E3F2FD" />
-
 ## Son Juwan 👋
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9BF7&center=true&vCenter=true&width=535&lines=Application+%26+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9BF7&center=true&vCenter=true&width=535&lines=Application+Developer;)](https://git.io/typing-svg)
 
 </div>
-### 🛠 Tech Stack
+🛠 Tech Stack
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- App -->
