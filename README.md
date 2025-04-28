@@ -1,10 +1,21 @@
-##  Son Juwan 
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B9BF7&center=true&vCenter=true&width=535&lines=Application+Developer;)](https://git.io/typing-svg)
 
 </div>
+<div>
+🔹 Experiencs<br/>
+[Hansung Unversity]  Computer Science Major <br/>
+[University Makeus Chellge] HSU-7th Android<br/>
+[University Makeus Chellge] HSU-7th Demoday 1st place. (Front-leader)<br/>
+[University Makeus Chellge] HSU-8th Android Part Leader<br/>
+[Kakao x groom] 9oormtonUNIV-4th  Frontend<br/>
+[Sopt- At Sopt] 36th - Android<br/>
+[Qualcomm - Hsu Capston]  Symposium Selection Team<br/>  
+</div><br>
+
+
+
 🛠 Tech Stack
 
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
