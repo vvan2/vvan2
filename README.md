@@ -7,7 +7,7 @@
   🔹 Experiences<br/>
 [Hansung Unversity]  Computer Science Major <br/>
 [University Makeus Chellge] HSU-7th Android<br/>
-[University Makeus Chellge] HSU-7th Demoday 1st place (Front-leader)<br/>
+[University Makeus Chellge] HSU-7th Demoday 1st place (Front-Leader)<br/>
 [University Makeus Chellge] HSU-8th Android Part Leader<br/>
 [Kakao x groom] 9oormtonUNIV-4th  Frontend<br/>
 [Sopt- At Sopt] 36th - Android<br/>
