@@ -12,6 +12,7 @@
 [Kakao x groom] 9oormtonUNIV-4th  Frontend<br/>
 [Sopt- At Sopt] 36th - Android<br/>
 [Qualcomm - Hsu Capston]  Symposium Selection Team<br/>  
+[Sopt- At Sopt] 36th - Sopt Hackton<br/>
 </div><br>
 
 
