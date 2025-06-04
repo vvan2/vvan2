@@ -13,6 +13,7 @@
 [Sopt- At Sopt] 36th - Android<br/>
 [Qualcomm - Hsu Capston]  Symposium Selection Team<br/>  
 [Sopt- At Sopt] 36th - Sopt Hackathon<br/>
+[2025 Summer Conference of the Korean Digital Contents Society] Paper submission
 </div><br>
 
 
