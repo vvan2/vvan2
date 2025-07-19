@@ -12,7 +12,7 @@
 [Kakao x groom] 9oormtonUNIV-4th  Frontend<br/>
 [Sopt- At Sopt] 36th - Android<br/>
 [Qualcomm - Hsu Capston]  Symposium Selection Team<br/>  
-[Sopt- At Sopt] 36th - Sopt Hackathon<br/>
+[Sopt- At Sopt] 36th - Sopt Hackathon, AppJam <br/>
 [2025 Summer Conference of the Korean Digital Contents Society] Paper submission, 1st prize 🥇<br/>
 [University Makeus Challenge] 8th Hackathon 1st prize 🥇
 </div><br>
