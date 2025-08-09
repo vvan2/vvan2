@@ -5,7 +5,7 @@
 </div>
 <div>
   🔹 Experiences<br/>
-[Hansung Unversity]  Computer Science Major <br/>
+[Hansung Unversity]  Computer Science Major -Mobilesoftware, Bigdata <br/>
 [University Makeus Challenge] HSU-7th Android<br/>
 [University Makeus Challenge] HSU-7th Demoday 1st prize 🥇 (Front-Leader)<br/>
 [University Makeus Challenge] HSU-8th Android Part Leader<br/>
