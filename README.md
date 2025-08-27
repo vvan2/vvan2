@@ -10,11 +10,12 @@
 [University Makeus Challenge] HSU-7th Demoday 1st prize 🥇 (Front-Leader)<br/>
 [University Makeus Challenge] HSU-8th Android Part Leader<br/>
 [Kakao x groom] 9oormtonUNIV-4th  Frontend<br/>
-[Sopt- At Sopt] 36th - Android<br/>
+[Sopt- At Sopt] 36th - Android YB<br/>
 [Qualcomm - Hsu Capston]  Symposium Selection Team<br/>  
 [Sopt- At Sopt] 36th - Sopt Hackathon, AppJam <br/>
 [2025 Summer Conference of the Korean Digital Contents Society] Paper submission, 1st prize 🥇<br/>
 [University Makeus Challenge] 8th Hackathon 1st prize 🥇
+[Sopt- Dive Sopt] 37th - Android OB<br/>
 </div><br>
 
 
