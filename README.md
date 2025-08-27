@@ -14,7 +14,7 @@
 [Qualcomm - Hsu Capston]  Symposium Selection Team<br/>  
 [Sopt- At Sopt] 36th - Sopt Hackathon, AppJam <br/>
 [2025 Summer Conference of the Korean Digital Contents Society] Paper submission, 1st prize 🥇<br/>
-[University Makeus Challenge] 8th Hackathon 1st prize 🥇
+[University Makeus Challenge] 8th Hackathon 1st prize 🥇 <br/>
 [Sopt- Dive Sopt] 37th - Android OB<br/>
 </div><br>
 
