@@ -10,6 +10,7 @@
 [University Makeus Challenge] HSU-7th Demoday 1st prize 🥇 (Front-Leader)<br/>
 [University Makeus Challenge] HSU-8th Android Part Leader<br/>
 [Kakao x groom] 9oormtonUNIV-4th  Frontend<br/>
+[Kakao x groom] 9oormtonUNIV-4th Seansonthon Frontend Leader<br/>
 [Sopt- At Sopt] 36th - Android YB<br/>
 [Qualcomm - Hsu Capston]  Symposium Selection Team<br/>  
 [Sopt- At Sopt] 36th - Sopt Hackathon, AppJam <br/>
