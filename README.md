@@ -17,6 +17,7 @@
 [2025 Summer Conference of the Korean Digital Contents Society] Paper submission, 1st prize 🥇<br/>
 [University Makeus Challenge] 8th Hackathon 1st prize 🥇 <br/>
 [Sopt- Dive Sopt] 37th - Android OB<br/>
+[Korea Institute of Communications and Information Sciences] 2025 Fall Conterence 3rd prize 🥉<br/>
 </div><br>
 
 
