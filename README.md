@@ -18,6 +18,7 @@
 [University Makeus Challenge] 8th Hackathon 1st prize 🥇 <br/>
 [Sopt- Dive Sopt] 37th - Android OB<br/>
 [Korea Institute of Communications and Information Sciences] 2025 Fall Conterence 3rd prize 🥉<br/>
+[Sopt- dive Sopt] 37th - Sopkathon 1st prize 🥇</br>
 </div><br>
 
 
