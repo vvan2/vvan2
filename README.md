@@ -53,11 +53,11 @@
 
 <table>
   <tr>
-    <td>
+    <!-- <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvan2&layout=compact" />
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=vvan2&show_icons=true" />
