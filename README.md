@@ -7,18 +7,19 @@
   🔹 Experiences<br/>
 [Hansung Unversity]  Computer Science Major <br/>
 [University Makeus Challenge] HSU-7th Android<br/>
-[University Makeus Challenge] HSU-7th Demoday 1st prize 🥇 (Front-Leader)<br/>
+[University Makeus Challenge] HSU-7th Demoday 1st prize 🏅 (Front-Leader)<br/>
 [University Makeus Challenge] HSU-8th Android Part Leader<br/>
 [Kakao x groom] 9oormtonUNIV-4th  Frontend<br/>
 [Kakao x groom] 9oormtonUNIV-4th Seasonthon Frontend Leader<br/>
 [Sopt- At Sopt] 36th - Android YB<br/>
 [Qualcomm - Hsu Capston]  Symposium Selection Team<br/>  
 [Sopt- At Sopt] 36th - Sopt Hackathon, AppJam <br/>
-[2025 Summer Conference of the Korean Digital Contents Society] Paper submission, 1st prize 🥇<br/>
-[University Makeus Challenge] 8th Hackathon 1st prize 🥇 <br/>
+[2025 Summer Conference of the Korean Digital Contents Society] Paper submission, 1st prize 🏅<br/>
+[University Makeus Challenge] 8th Hackathon 1st prize 🏅 <br/>
 [Sopt- Dive Sopt] 37th - Android OB<br/>
-[Korea Institute of Communications and Information Sciences] 2025 Fall Conterence 3rd prize 🥉<br/>
-[Sopt- Dive Sopt] 37th - Sopkathon , Android - 1st prize 🥇</br>
+[Korea Institute of Communications and Information Sciences] 2025 Fall Conterence 3rd prize 🏅<br/>
+[Sopt- Dive Sopt] 37th - Sopkathon , Android - 1st prize 🏅</br>
+[Hansung Unversity] Hsu Idea Contest - 2nd prize 🏅</br>
 </div><br>
 
 
