@@ -29,7 +29,7 @@
 - 🏆[Sopt- Dive Sopt] 37th - Sopkathon , Android - 1st prize
 - 🏆[Hansung University] Hsu Idea Contest - 2nd prize
 
-
+</br>
 <table>
   <tr>
     <td>
