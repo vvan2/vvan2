@@ -28,6 +28,7 @@
 - 🏆[Korea Institute of Communications and Information Sciences] 2025 Fall Conterence 3rd prize
 - 🏆[Sopt- Dive Sopt] 37th - Sopkathon , Android - 1st prize
 - 🏆[Hansung University] Hsu Idea Contest - 2nd prize
+- 🏆[Sopt- Dive Sopt] 37th - AppJam Demoday - 1st prize
 
 </br>
 <table>
