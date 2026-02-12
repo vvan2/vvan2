@@ -8,6 +8,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)]()
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)]()
 [![xml](https://img.shields.io/badge/XML-007ACC?logo=xml&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)]()
 
 
 ### Experience
