@@ -21,6 +21,7 @@
 - [Sopt- At Sopt] 36th - Android YB
 - [Sopt- At Sopt] 36th - Sopt Hackathon, AppJam
 - [Sopt- Dive Sopt] 37th - Android OB
+- [Sopt- Makers] 38th - Android Chapter
 
 ### Awards
 - 🏆[University Makeus Challenge] HSU-7th Demoday 1st prize
